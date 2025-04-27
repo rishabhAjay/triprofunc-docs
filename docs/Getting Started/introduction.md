@@ -31,7 +31,7 @@ sidebar_position: 1
 
 ## Notes
 
-- This library _has not been tested against all and old versions_ of the given Database engine. If for some reason you face difficulties integrating this library with your version of the Database, please reach out via [Discussions](https://google.com)
+- This library _has not been tested against all and old versions_ of the given Database engine. If for some reason you face difficulties integrating this library with your version of the Database, please reach out via [Discussions](https://github.com/rishabhAjay/TriProFunc/discussions)
 
 ## Contact
 
